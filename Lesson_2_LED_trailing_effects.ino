@@ -2,7 +2,7 @@
 /* Arduino Starter Kit-CoreChamp by Janmejay Singh
     Lesson 2: LED trailing effects
     
- Turn an LED on for one second off for one second and repeat forever.
+ Creat trailing effect with help of multiple LED.
  
  This code is completely free for any use.
  Visit https://github.com/janmejaysyngh/Arduino-Starter-Kit-CoreChamp .
