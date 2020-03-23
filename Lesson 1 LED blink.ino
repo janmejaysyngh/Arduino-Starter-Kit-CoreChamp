@@ -1,9 +1,10 @@
-/* Arduino Starter Kit-CoreChamp
+/* Arduino Starter Kit-CoreChamp by Janmejay Singh
     Lesson 1: LED blink
     
  Turn an LED on for one second off for one second and repeat forever.
  
  This code is completely free for any use.
+Visit https://github.com/janmejaysyngh/Arduino-Starter-Kit-CoreChamp .
  Visit http://www.corechamp.in for more information.
  Visit http://www.arduino.cc to learn about the Arduino.
  */
