@@ -2,7 +2,10 @@
 /* Arduino Starter Kit-CoreChamp by Janmejay Singh
     Lesson 3: Traffic light
     
- Turn an LED on for one second off for one second and repeat forever.
+ The green light flashes for 5 seconds,
+ then the yellow light flashes 3 times, and then the red light 5 seconds, 
+ the formation of a cycle. And then repeat the cycle. 
+ This experiment shows the effect of the simulation of traffic lights.
  
  This code is completely free for any use.
  Visit https://github.com/janmejaysyngh/Arduino-Starter-Kit-CoreChamp .
