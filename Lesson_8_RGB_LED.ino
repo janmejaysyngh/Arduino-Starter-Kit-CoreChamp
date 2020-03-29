@@ -12,6 +12,10 @@
  * RGB 1 pin connected to pin 11
  * RGB common pin connected to pin GND/5+ve (Common pin)
 
+This code is completely free for any use.
+ Visit https://github.com/janmejaysyngh/Arduino-Starter-Kit-CoreChamp .
+ Visit http://www.corechamp.in for more information.
+ Visit http://www.arduino.cc to learn about the Arduino.
  */
 const int RED_PIN = 9;
 const int GREEN_PIN = 10;
