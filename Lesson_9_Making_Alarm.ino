@@ -11,6 +11,10 @@
  * LDR one side to 5V and other side with 10KΩ resistor and A0 
  * 10KΩ resistor other pin to GND
 
+This code is completely free for any use.
+ Visit https://github.com/janmejaysyngh/Arduino-Starter-Kit-CoreChamp .
+ Visit http://www.corechamp.in for more information.
+ Visit http://www.arduino.cc to learn about the Arduino.
  */
 
 const int Buzzer = 11;
