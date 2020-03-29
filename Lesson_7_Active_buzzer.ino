@@ -5,6 +5,7 @@
  pin 9, with delay of 2 second & 1second delay simentanously.
 
 
+
  The circuit:
  * buzzer '+'ve attached to pin 13
  * buzzer '-'ve attached to ground
