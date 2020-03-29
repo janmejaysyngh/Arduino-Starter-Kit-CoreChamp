@@ -1,5 +1,5 @@
 /* Arduino Starter Kit-CoreChamp by Janmejay Singh
-    Lesson 3: Traffic light
+    Lesson 11: Knob
 
  The Circuit
  *Servo Yellow pin to D9
