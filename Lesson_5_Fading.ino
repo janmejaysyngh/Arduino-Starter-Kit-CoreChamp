@@ -10,6 +10,10 @@
  Arduino, the PWM pins are identified with 
  a "~" sign, like ~3, ~5, ~6, ~9, ~10 and ~11.
 
+This code is completely free for any use.
+ Visit https://github.com/janmejaysyngh/Arduino-Starter-Kit-CoreChamp .
+ Visit http://www.corechamp.in for more information.
+ Visit http://www.arduino.cc to learn about the Arduino.
  */
 
 int led = 5;           // the PWM pin the LED is attached to
