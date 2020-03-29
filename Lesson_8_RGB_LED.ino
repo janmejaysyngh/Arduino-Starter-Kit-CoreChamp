@@ -1,26 +1,26 @@
 /* Arduino Starter Kit-CoreChamp by Janmejay Singh
-    Lesson 8: RGB LED
+    Lesson 9: Making Alarm
 
  Turns on and off a RGB connected to digital
- pin 10,11 & 12 & Common pin to Cathode or Anode.
+ pin 9,10 & 11 & Common pin to Cathode or Anode.
 
 
  The circuit:
  RGB are generally 2 type Common anode(+ve) or Common Cathode(-ve GND)
+ * RGB 1 pin connected to pin 9
  * RGB 1 pin connected to pin 10
  * RGB 1 pin connected to pin 11
- * RGB 1 pin connected to pin 12
  * RGB common pin connected to pin GND/5+ve (Common pin)
 
  */
-const int RED_PIN = 10;
-const int GREEN_PIN = 11;
-const int BLUE_PIN = 12;
+const int RED_PIN = 9;
+const int GREEN_PIN = 10;
+const int BLUE_PIN = 11;
  void setup() {
   // initialize digital pin LED_BUILTIN as an output.
+  pinMode(9, OUTPUT);
   pinMode(10, OUTPUT);
   pinMode(11, OUTPUT);
-  pinMode(12, OUTPUT);
 }
 
 // the loop function runs over and over again forever
