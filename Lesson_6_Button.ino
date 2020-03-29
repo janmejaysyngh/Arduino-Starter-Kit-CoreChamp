@@ -1,5 +1,6 @@
 /* Arduino Starter Kit-CoreChamp by Janmejay Singh
-    Lesson 6:Button
+    Lesson 6: Button
+
 
  Turns on and off a light emitting diode(LED) connected to digital
  pin 13, when pressing a pushbutton attached to pin 2.
@@ -11,6 +12,7 @@
  * 10K resistor attached to pin 2 from ground
 
  */
+
 
 const int buttonPin = 2;     // the number of the button pin
 const int ledPin =  13;      // the number of the LED pin
