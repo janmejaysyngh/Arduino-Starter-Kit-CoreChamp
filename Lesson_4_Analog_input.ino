@@ -42,4 +42,3 @@ void loop() {
   // stop the program for for <sensorValue> milliseconds:
   delay(sensorValue);
 }
-
