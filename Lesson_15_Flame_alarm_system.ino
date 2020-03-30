@@ -3,9 +3,11 @@ Arduino Starter Kit-CoreChamp by Janmejay Singh
     Lesson 15: Flame alarm system
 Flame sensor    UNO R3
 Short Pin ->  +5V
-Long Pin  ->  A0
+Long Pin  ->  A0 & 10KΩ resistor
 Buzzer    ->  D6
 Note：The short pin of the Flame sensor is connected to +5v.
+      The long pin of Flame sensor is connected to A0 & one side of 10KΩ resistor
+      The other side of 10KΩ resistor is connected to GND
 
  This code is completely free for any use.
  Visit https://github.com/janmejaysyngh/Arduino-Starter-Kit-CoreChamp .
